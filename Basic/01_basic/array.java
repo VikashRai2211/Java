@@ -22,18 +22,18 @@
 // }
 
 
-// public class array {
-//     public static void main (String [] args) {
+public class array {
+    public static void main (String [] args) {
 
-//         // int [] marks = new int [3];
-//         boolean [] marks = new boolean [4];
+        // int [] marks = new int [3];
+        boolean [] marks = new boolean [4];
 
-//         System. out. println (marks [3]);
-//         // ------ length
+        System. out. println (marks [3]);
+        // ------ length
 
-//         System. out. println (marks. length);
-//     }
-// }
+        System. out. println (marks. length);
+    }
+}
 
 
 
@@ -48,11 +48,11 @@
 // }
 
 
-public class array {
-    public static void main (String [] args) {
-        int [] [] final_marks = {{78, 80, 90}, {90, 98, 95}};
+// public class array {
+//     public static void main (String [] args) {
+//         int [] [] final_marks = {{78, 80, 90}, {90, 98, 95}};
 
-        System. out. println (final_marks[0] [2]);
-        System. out. println (final_marks[1] [0]);
-    }
-}
+//         System. out. println (final_marks[0] [2]);
+//         System. out. println (final_marks[1] [0]);
+//     }
+// }
